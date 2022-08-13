@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1645304484 source:e:\kamlendra\project_c\online_cab_booking\online_cab_booking.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1643608595 source:e:\kamlendra\project_c\online_cab_booking\stringgetch.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
